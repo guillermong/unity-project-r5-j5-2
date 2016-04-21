@@ -1,0 +1,43 @@
+***RANGE ES UN COMPONENTE Y NECSITA QUE SE SETEE LA VARIABLE RANGE PARA MOSTRAR , CADA SKILL CUANDO SE ACTIVA SETEA LA VARIABLE.....(creo que 
+mejor es que deberia existeir un componente que guarde el skill activado y obtener el rango... pero donde se guarda en el cliente o en el 
+servidor y despues al cliente??? )
+CUANDO APRETA EL TAB APARECE EL RANGO ... TAMBIEN SERIA BUENO QUE CUANDO ESTE ACTIVADO EL SKILL MUESTRE EL RANGO COMO UNA OPCIÓN
+
+
+*** CAMINAR
+PROBLEMA CON SPAM CAMIANR... CAMINAR MAS RAPIDO AL SPAMEAR... SE PUEDE ARREGLAR CON DELAY???no...  VERIFICAR SI HACE SKILL EN EL MISMO LUGAR???spam en varios lugares
+
+***NORMAL ATK
+pPROBLEMA CUANDO ESTA CAMINANDO... SE SOLUCIONO PARANDOLO PRIMERO PERO ES MUY LENTO... SE DETIENE AL PRINCIPIO PARA QUE ANTES DE COMPROBAR YA ESTE PARADO... 
+PERO NO ES OPTIMO..SERIA MEJOR UNA CORUTINA PARA VERIFICAR QUE ESTA PARADO ANTES DE EMPEZAR EL NORMAL ATK.......
+
+
+
+*SHOW SKILL QUAD
+*sounds skills
+
+arreglar stun algoritmo
+
+*skills
+-cloack.
+-hiding
+-ice wall
+
+
+
+*skill system
+*party system
+*inventory system
+*equip system
+*interface (entrada y jugar)
+*mosnter
+*chat system(arreglar el GUI)
+
+
+-skill matener un boton para cargar(hamehameha)
+-skill como el ultimate de nautilus
+-skill para entrenar ojos(ilusiones)(crear varios monos alrededor del enemigo y luego atacar todos al mismo tiempo, pedasote de efecto :D)
+-revive
+-storm gust
+-statue legendary
+-statue legendary mosnter live
